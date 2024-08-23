@@ -61,8 +61,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me via email at [your-email@example.com].
-
----
-
-You can modify this `README.md` to include more specific details or to match the actual functionality of your To-Do List application.
+If you have any questions or suggestions, feel free to contact me via email at [aaron.design.ux@gmail.com](aaron.design.ux@gmail.com).
