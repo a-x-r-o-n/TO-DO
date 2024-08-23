@@ -55,10 +55,3 @@ The project consists of the following files:
 - Add the ability to set due dates and reminders for tasks.
 - Include task prioritization and categorization.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or suggestions, feel free to contact me via email at [aaron.design.ux@gmail.com](aaron.design.ux@gmail.com).
